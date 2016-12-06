@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">App Portfolio</string>
+    <string name="tv1_name">My Nanodegree Program</string>
+    <string name="btn1_name">POPULAR MOVIES</string>
+    <string name="btn2_name">STOCK HAWK</string>
+    <string name="btn3_name">BUILD IT BIGGER</string>
+    <string name="btn4_name">MAKE YOUR APP MATERIAL</string>
+    <string name="btn5_name">GO UBIQUITOUS</string>
+    <string name="btn6_name">CAPSTONE: MY OWN APP</string>
+
+    <dimen name="btnPadding">20dp</dimen>
+    <dimen name="btnMarginBottom">10dp</dimen>
+    <dimen name="marginLeft">59dp</dimen>
+    <dimen name="tvmargin">40dp</dimen>
+
+
+
 </resources>
