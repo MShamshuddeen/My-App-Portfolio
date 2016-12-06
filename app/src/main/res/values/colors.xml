@@ -4,4 +4,5 @@
     <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#FF4081</color>
     <color name="btnColor">#F08C35</color>
+    <color name="myownapp">#E65100</color>
 </resources>
