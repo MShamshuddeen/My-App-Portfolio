@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void showToast(View view){
-        Button b = (Button)view;
-        String buttontext = b.getText().toString();
+        Button btn = (Button)view;
+        String buttontext = btn.getText().toString();
         toast.makeText(this,"This button will launch "+buttontext+" Project",Toast.LENGTH_SHORT).show();
 
 
